@@ -3,7 +3,7 @@
 
 # 1
 
-name = 'omar'
+Name = 'omar'
 Age = 19
 Country = 'EGYPT'
 
